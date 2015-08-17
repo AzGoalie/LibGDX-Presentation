@@ -1,0 +1,34 @@
+
+game.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 199
+  size: 720, 1024
+  orig: 720, 1024
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 2, 2
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+coinbox
+  rotate: false
+  xy: 724, 1095
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 2, 69
+  size: 720, 128
+  orig: 720, 128
+  offset: 0, 0
+  index: -1
